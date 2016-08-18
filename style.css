@@ -25,12 +25,12 @@ h2{
 }
 
 a {
-    color: rgb(50, 118, 63);
+    color: #DFC6FF;
     text-decoration: none;
 }
 
 a:visited {
-    color: rgb(159, 192, 128);
+    color: #B29ECC;
     text-decoration: none;
 }
 
